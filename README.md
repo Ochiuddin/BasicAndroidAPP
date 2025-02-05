@@ -33,4 +33,4 @@ The **Second Activity** displays:
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MdOchiuddinMiah/BasicAndroidAPP.git
+   git clone https://github.com/Ochiuddin/BasicAndroidAPP.git
