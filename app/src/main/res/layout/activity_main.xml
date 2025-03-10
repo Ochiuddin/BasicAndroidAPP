@@ -25,4 +25,11 @@
         android:layout_height="wrap_content"
         android:text="Start Activity Implicitly"
         android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/button_view_image_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Image Activity"
+        android:layout_marginTop="20dp"/>
 </LinearLayout>
