@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Assignment2</string>
+    <string name="app_name">Assignment6</string>
+    <string name="permlab_mse412">Permission to access the Second Activity</string>
+    <string name="permdesc_mse412">allows the app to access the Second Activity, where you can view the mobile software engineering challenges.</string>
 </resources>
